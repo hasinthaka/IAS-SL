@@ -1,0 +1,183 @@
+<wpml-config>
+	<admin-texts>
+		<key name="event_theme_options">
+			<key name="event_search_text" />
+			<key name="event_tag_text" />
+			<key name="event-img-upload-footer-image" />
+			<key name="event-footer-title" />
+			<key name="event-footer-link" />
+			<key name="event_tag_text" />
+			<key name="event_tag_text" />
+			<key name="event_secondary_text" />
+			<key name="event_title" />
+			<key name="event_venue" />
+			<key name="event_book_appointment" />
+			<key name="event_book_appointment_url" />
+			<key name="event_features_title" />
+			<key name="event_features_description" />
+			<key name="event_upcoming_title" />
+			<key name="event_upcoming_bg_image" />
+			<key name="event_our_speaker_title" />
+			<key name="event_our_speaker_description" />
+			<key name="event_program_schedule_title" />
+			<key name="event_program_schedule_description" />
+			<key name="event_program_schedule_bg_image" />
+			<key name="event_our_gallery_title" />
+			<key name="event_our_gallery_description" />
+			<key name="event_our_testimonial_title" />
+			<key name="event_our_testimonial_bg_image" />
+			<key name="client_box_image_heading" />
+
+			<key name="client_image_title1" />
+			<key name="client_image_title2" />
+			<key name="client_image_title3" />
+			<key name="client_image_title4" />
+			<key name="client_image_title5" />
+			<key name="client_image_title6" />
+			<key name="client_image_title7" />
+			<key name="client_image_title8" />
+			<key name="client_image_title9" />
+			<key name="client_image_title10" />
+
+			<key name="image_slider_title1" />
+			<key name="image_slider_title2" />
+			<key name="image_slider_title3" />
+			<key name="image_slider_title4" />
+			<key name="image_slider_title5" />
+			<key name="image_slider_title6" />
+			<key name="image_slider_title7" />
+			<key name="image_slider_title8" />
+			<key name="image_slider_title9" />
+			<key name="image_slider_title10" />
+
+			<key name="image_slider_sub_title1" />
+			<key name="image_slider_sub_title2" />
+			<key name="image_slider_sub_title3" />
+			<key name="image_slider_sub_title4" />
+			<key name="image_slider_sub_title5" />
+			<key name="image_slider_sub_title6" />
+			<key name="image_slider_sub_title7" />
+			<key name="image_slider_sub_title8" />
+			<key name="image_slider_sub_title9" />
+			<key name="image_slider_sub_title10" />
+
+			<key name="image_description1" />
+			<key name="image_description2" />
+			<key name="image_description3" />
+			<key name="image_description4" />
+			<key name="image_description5" />
+			<key name="image_description6" />
+			<key name="image_description7" />
+			<key name="image_description8" />
+			<key name="image_description9" />
+			<key name="image_description10" />
+
+			<key name="imageredirect_slider_link1" />
+			<key name="imageredirect_slider_link2" />
+			<key name="imageredirect_slider_link3" />
+			<key name="imageredirect_slider_link4" />
+			<key name="imageredirect_slider_link5" />
+			<key name="imageredirect_slider_link6" />
+			<key name="imageredirect_slider_link7" />
+			<key name="imageredirect_slider_link8" />
+			<key name="imageredirect_slider_link9" />
+			<key name="imageredirect_slider_link10" />
+
+			<key name="slider_image_button_text1" />
+			<key name="slider_image_button_text2" />
+			<key name="slider_image_button_text3" />
+			<key name="slider_image_button_text4" />
+			<key name="slider_image_button_text5" />
+			<key name="slider_image_button_text6" />
+			<key name="slider_image_button_text7" />
+			<key name="slider_image_button_text8" />
+			<key name="slider_image_button_text9" />
+			<key name="slider_image_button_text10" />
+
+			<key name="event_our_speaker_position_1" />
+			<key name="event_our_speaker_position_2" />
+			<key name="event_our_speaker_position_3" />
+			<key name="event_our_speaker_position_4" />
+			<key name="event_our_speaker_position_5" />
+			<key name="event_our_speaker_position_6" />
+			<key name="event_our_speaker_position_7" />
+			<key name="event_our_speaker_position_8" />
+			<key name="event_our_speaker_position_9" />
+			<key name="event_our_speaker_position_10" />
+
+
+			<key name="event_our_speaker_about_1" />
+			<key name="event_our_speaker_about_2" />
+			<key name="event_our_speaker_about_3" />
+			<key name="event_our_speaker_about_4" />
+			<key name="event_our_speaker_about_5" />
+			<key name="event_our_speaker_about_6" />
+			<key name="event_our_speaker_about_7" />
+			<key name="event_our_speaker_about_8" />
+			<key name="event_our_speaker_about_9" />
+			<key name="event_our_speaker_about_10" />
+
+			<key name="event_plus_our_speaker_position_1" />
+			<key name="event_plus_our_speaker_position_2" />
+			<key name="event_plus_our_speaker_position_3" />
+			<key name="event_plus_our_speaker_position_4" />
+			<key name="event_plus_our_speaker_position_5" />
+			<key name="event_plus_our_speaker_position_6" />
+			<key name="event_plus_our_speaker_position_7" />
+			<key name="event_plus_our_speaker_position_8" />
+			<key name="event_plus_our_speaker_position_9" />
+			<key name="event_plus_our_speaker_position_10" />
+			<key name="event_plus_our_speaker_position_11" />
+			<key name="event_plus_our_speaker_position_12" />
+			<key name="event_plus_our_speaker_position_13" />
+			<key name="event_plus_our_speaker_position_14" />
+			<key name="event_plus_our_speaker_position_15" />
+			<key name="event_plus_our_speaker_position_16" />
+			<key name="event_plus_our_speaker_position_17" />
+			<key name="event_plus_our_speaker_position_18" />
+			<key name="event_plus_our_speaker_position_19" />
+			<key name="event_plus_our_speaker_position_20" />
+
+
+			<key name="event_plus_our_speaker_about_1" />
+			<key name="event_plus_our_speaker_about_2" />
+			<key name="event_plus_our_speaker_about_3" />
+			<key name="event_plus_our_speaker_about_4" />
+			<key name="event_plus_our_speaker_about_5" />
+			<key name="event_plus_our_speaker_about_6" />
+			<key name="event_plus_our_speaker_about_7" />
+			<key name="event_plus_our_speaker_about_8" />
+			<key name="event_plus_our_speaker_about_9" />
+			<key name="event_plus_our_speaker_about_10" />
+			<key name="event_plus_our_speaker_about_11" />
+			<key name="event_plus_our_speaker_about_12" />
+			<key name="event_plus_our_speaker_about_13" />
+			<key name="event_plus_our_speaker_about_14" />
+			<key name="event_plus_our_speaker_about_15" />
+			<key name="event_plus_our_speaker_about_16" />
+			<key name="event_plus_our_speaker_about_17" />
+			<key name="event_plus_our_speaker_about_18" />
+			<key name="event_plus_our_speaker_about_19" />
+			<key name="event_plus_our_speaker_about_20" />
+
+
+			<key name="event_timeline_title" />
+			<key name="event_timeline_description" />
+
+			<key name="event_plus_features_title" />
+			<key name="event_plus_features_description" />
+
+			<key name="event_plus_upcoming_title" />
+			<key name="event_plus_upcoming_bg_image" />
+
+			<key name="event_plus_our_speaker_title" />
+			<key name="event_plus_our_speaker_description" />
+
+			<key name="event_plus_program_schedule_title" />
+			<key name="event_plus_program_schedule_description" />
+
+			<key name="event_plus_our_gallery_title" />
+			<key name="event_plus_our_gallery_description" />
+		</key>
+	</admin-texts>
+</wpml-config>
